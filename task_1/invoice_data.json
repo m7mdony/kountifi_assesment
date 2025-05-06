@@ -1,0 +1,45 @@
+{
+    "invoice_number": "1231231",
+    "date": "06/05/2025",
+    "invoicer": {
+        "name": "Kountifi",
+        "address": "UAE Business bay\nDubai",
+        "phone": "05121111111",
+        "email": "example@gmail.com"
+    },
+    "recipient": {
+        "address": "Street Address\nCity, ST ZIP Code",
+        "phone": null,
+        "fax": null,
+        "email": null
+    },
+    "items": [
+        {
+            "description": "asdasdzc Asd a sdsa asd",
+            "quantity": null,
+            "unit_price": 1231,
+            "line_total": 3333
+        },
+        {
+            "description": "zxczxczx Asvfdhf hfg hgfhjg",
+            "quantity": null,
+            "unit_price": 2,
+            "line_total": 232
+        },
+        {
+            "description": "asdasdas Vbn bvnvbnbnnbf",
+            "quantity": null,
+            "unit_price": 34,
+            "line_total": 123
+        },
+        {
+            "description": "zxczxvasda Fghfghrth trtytryer",
+            "quantity": null,
+            "unit_price": 556,
+            "line_total": 2354
+        }
+    ],
+    "subtotal": 12312231,
+    "sales_tax": null,
+    "total": 1231231232
+}
